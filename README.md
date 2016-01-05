@@ -5,7 +5,7 @@ My personal notes on programming, distributed systems, scalability, and other to
  * The Raft Consensus Algorithm
    * https://raft.github.io/
 
-## Courses
+## Distributed Systems
  * MIT OCW: Distributed Computer Systems Engineering
    * http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/
  * U Waterloo CS 436: Distributed Computer Systems

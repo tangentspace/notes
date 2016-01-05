@@ -10,6 +10,8 @@ My personal notes on programming, distributed systems, scalability, and other to
    * http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/
  * U Waterloo CS 436: Distributed Computer Systems
    * https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N
+ * Readings in distributed systems
+   * https://henryr.github.io/distributed-systems-readings/
  
 ## Data Analysis
 

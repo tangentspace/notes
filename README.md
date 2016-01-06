@@ -5,6 +5,12 @@ My personal notes on programming, distributed systems, scalability, and other to
  * The Raft Consensus Algorithm
    * https://raft.github.io/
 
+## Blogs
+  * Paper Trail: _Computer Systems, Distributed Algorithms and Databases_
+    * http://the-paper-trail.org/
+  * High Scalability: _Building bigger, faster, more reliable websites_
+    * http://highscalability.com/
+  
 ## Distributed Systems
  * MIT OCW: Distributed Computer Systems Engineering
    * http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/

@@ -12,6 +12,8 @@ My personal notes on programming, distributed systems, scalability, and other to
    * https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N
  * Readings in distributed systems
    * https://henryr.github.io/distributed-systems-readings/
+ * The CAP FAQ
+   * http://henryr.github.io/cap-faq/
  * Jepsen: On the perils of network partitions
    * https://aphyr.com/posts/281-jepsen-on-the-perils-of-network-partitions
  

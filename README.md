@@ -27,3 +27,7 @@ My personal notes on programming, distributed systems, scalability, and other to
 
  * Folium makes it easy to visualize data that's been manipulated in Python on an interactive Leaflet map. It enables both the binding of    data to a map for choropleth visualizations as well as passing Vincent/Vega visualizations as markers on the map.
      * https://github.com/python-visualization/folium
+
+## Machine Learning
+  * Machine Learning Video Library
+    * https://work.caltech.edu/library/

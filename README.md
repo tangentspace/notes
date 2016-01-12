@@ -31,3 +31,5 @@ My personal notes on programming, distributed systems, scalability, and other to
 ## Machine Learning
   * Machine Learning Video Library
     * https://work.caltech.edu/library/
+  * Caltech Machine Learning Course - CS 156
+    * https://www.youtube.com/playlist?list=PLD63A284B7615313A

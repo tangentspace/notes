@@ -33,5 +33,3 @@ My personal notes on programming, distributed systems, scalability, and other to
     * https://work.caltech.edu/library/
   * Caltech Machine Learning Course - CS 156
     * https://www.youtube.com/playlist?list=PLD63A284B7615313A
-  * A 'Brief' History of Neural Nets and Deep Learning
-    * http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/

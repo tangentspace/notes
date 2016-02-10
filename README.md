@@ -34,6 +34,9 @@ My personal notes on programming, distributed systems, scalability, and other to
   * Caltech Machine Learning Course - CS 156
     * https://www.youtube.com/playlist?list=PLD63A284B7615313A
 
-## Systems Infrastructure
+## Systems / Operations
   * Understanding CPU Steal Time -- When Should You Be Worried?
     * http://blog.scoutapp.com/articles/2013/07/25/understanding-cpu-steal-time-when-should-you-be-worried
+
+  * How to Measure Ruby App Performance with New Relic
+    * https://www.nateberkopec.com/2015/10/15/ruby-app-performance-with-new-relic.html

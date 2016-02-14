@@ -22,6 +22,8 @@ My personal notes on programming, distributed systems, scalability, and other to
   * https://github.com/MariaDB/server/tree/10.1/storage/cassandra
   * Brief description of Cassandra storage engine: 
     * https://docs.datastax.com/en/cassandra/2.1/cassandra/dml/dml_manage_ondisk_c.html
+ * Comparison of MySQL with MHA, MySQL with Galera Replication, and AWS RDS-Aurora.
+   * http://www.tusacentral.net/joomla/index.php/mysql-blogs/175-aws-aurora-benchmarking-blast-or-splash.html
 
 ## Distributed Systems
  * MIT OCW: Distributed Computer Systems Engineering

@@ -2,9 +2,9 @@
 My personal notes on programming, distributed systems, scalability, and other topics.
 
 ## Algorithms
-  * The Raft Consensus Algorithm
+ * The Raft Consensus Algorithm
     * https://raft.github.io/
-  * The binary search of distributed programming
+ * The binary search of distributed programming
     * http://antirez.com/news/102
  * Damn Cool Algorithms: Log structured storage
    * http://blog.notdot.net/2009/12/Damn-Cool-Algorithms-Log-structured-storage

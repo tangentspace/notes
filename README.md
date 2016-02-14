@@ -12,7 +12,7 @@ My personal notes on programming, distributed systems, scalability, and other to
     * http://the-paper-trail.org/
   * High Scalability: _Building bigger, faster, more reliable websites_
     * http://highscalability.com/
-  * <antirez>
+  * \<antirez\>
     * http://antirez.com/latest/0
   
 ## Databases

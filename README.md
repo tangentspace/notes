@@ -33,9 +33,13 @@ My personal notes on programming, distributed systems, scalability, and other to
  * Jepsen: On the perils of network partitions
    * https://aphyr.com/posts/281-jepsen-on-the-perils-of-network-partitions
  
-## Data Analysis
+## Data Visualization
  * Folium makes it easy to visualize data that's been manipulated in Python on an interactive Leaflet map. 
   * https://github.com/python-visualization/folium
+ * Bokeh is a Python interactive visualization library that targets modern web browsers for presentation.
+  * http://bokeh.pydata.org/en/latest/
+ * Seaborn is a Python visualization library based on matplotlib. 
+  * http://stanford.edu/~mwaskom/software/seaborn/
 
 ## Machine Learning
   * Machine Learning Video Library

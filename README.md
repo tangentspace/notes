@@ -2,14 +2,18 @@
 My personal notes on programming, distributed systems, scalability, and other topics.
 
 ## Algorithms
- * The Raft Consensus Algorithm
-   * https://raft.github.io/
+  * The Raft Consensus Algorithm
+    * https://raft.github.io/
+  * The binary search of distributed programming
+    * http://antirez.com/news/102
 
 ## Blogs
   * Paper Trail: _Computer Systems, Distributed Algorithms and Databases_
     * http://the-paper-trail.org/
   * High Scalability: _Building bigger, faster, more reliable websites_
     * http://highscalability.com/
+  * <antirez>
+    * http://antirez.com/latest/0
   
 ## Databases
  * Cassandra storage engine for MariaDB (WIP)

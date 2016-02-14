@@ -11,6 +11,12 @@ My personal notes on programming, distributed systems, scalability, and other to
   * High Scalability: _Building bigger, faster, more reliable websites_
     * http://highscalability.com/
   
+## Databases
+ * Cassandra storage engine for MariaDB (WIP)
+  * https://github.com/MariaDB/server/tree/10.1/storage/cassandra
+  * Brief description of Cassandra storage engine: 
+    * https://docs.datastax.com/en/cassandra/2.1/cassandra/dml/dml_manage_ondisk_c.html
+
 ## Distributed Systems
  * MIT OCW: Distributed Computer Systems Engineering
    * http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/

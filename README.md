@@ -16,6 +16,8 @@ My personal notes on programming, distributed systems, scalability, and other to
     * http://highscalability.com/
   * \<antirez\>
     * http://antirez.com/latest/0
+  * Sergey Petrunia’s blog: Random observations made while working on MySQL / MariaDB query optimizer
+    * http://s.petrunia.net/blog/
   
 ## Databases
  * Cassandra storage engine for MariaDB (WIP)

@@ -45,3 +45,7 @@ My personal notes on programming, distributed systems, scalability, and other to
     * http://blog.scoutapp.com/articles/2013/07/25/understanding-cpu-steal-time-when-should-you-be-worried
   * How to Measure Ruby App Performance with New Relic
     * https://www.nateberkopec.com/2015/10/15/ruby-app-performance-with-new-relic.html
+
+## History
+  * The Evolution of Character Codes, 1874-1968
+    * http://trafficways.org/ascii/ascii.pdf

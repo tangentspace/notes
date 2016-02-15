@@ -47,6 +47,10 @@ My personal notes on programming, distributed systems, scalability, and other to
  * Seaborn is a Python visualization library based on matplotlib. 
   * http://stanford.edu/~mwaskom/software/seaborn/
 
+## Data Analysis
+ * Installing Numpy with ATLAS on Amazon Linux
+   * http://stackoverflow.com/questions/18732250/installing-numpy-on-amazon-ec2
+
 ## Machine Learning
   * Machine Learning Video Library
     * https://work.caltech.edu/library/

@@ -19,6 +19,10 @@ My personal notes on programming, distributed systems, scalability, and other to
   * Sergey Petrunia’s blog: Random observations made while working on MySQL / MariaDB query optimizer
     * http://s.petrunia.net/blog/
   
+## Computer Science
+ * Computer Science from the Bottom Up
+   * http://www.bottomupcs.com/
+
 ## Databases
  * Cassandra storage engine for MariaDB (WIP)
   * https://github.com/MariaDB/server/tree/10.1/storage/cassandra

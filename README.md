@@ -61,6 +61,10 @@ My personal notes on programming, distributed systems, scalability, and other to
   * Caltech Machine Learning Course - CS 156
     * https://www.youtube.com/playlist?list=PLD63A284B7615313A
 
+## Operating Systems
+  * The Design and Implementation of the 4.4BSD Operating System 
+   * https://www.freebsd.org/doc/en/books/design-44bsd/
+
 ## Performance
   * Understanding CPU Steal Time -- When Should You Be Worried?
     * http://blog.scoutapp.com/articles/2013/07/25/understanding-cpu-steal-time-when-should-you-be-worried

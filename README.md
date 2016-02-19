@@ -18,6 +18,8 @@ My personal notes on programming, distributed systems, scalability, and other to
     * http://antirez.com/latest/0
   * Sergey Petrunia’s blog: Random observations made while working on MySQL / MariaDB query optimizer
     * http://s.petrunia.net/blog/
+  * Brendan Gregg's website (great resource for systems performance)
+    * http://www.brendangregg.com/
   
 ## Computer Science
  * Computer Science from the Bottom Up

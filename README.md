@@ -76,6 +76,9 @@ My personal notes on programming, distributed systems, scalability, and other to
     * https://www.nateberkopec.com/2015/10/15/ruby-app-performance-with-new-relic.html
   * Modern Microprocessors -- A 90 Minute Guide
     * http://www.lighterra.com/papers/modernmicroprocessors/
+  * Linux Performance Tools, Brendan Gregg
+    * Part 1: https://youtu.be/FJW8nGV4jxY
+    * Part 2: https://youtu.be/zrr2nUln9Kk
 
 ## Deployment
   * Sumo Logic Deployment Infrastructure and Practices

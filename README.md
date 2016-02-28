@@ -68,6 +68,8 @@ My personal notes on programming, distributed systems, scalability, and other to
 ## Operating Systems
   * The Design and Implementation of the 4.4BSD Operating System 
    * https://www.freebsd.org/doc/en/books/design-44bsd/
+  * Linux Kernel Newbies: A community of aspiring Linux kernel developers who work to improve their Kernels and more experienced developers willing to share their knowledge.
+   * http://kernelnewbies.org/
 
 ## Performance
   * Understanding CPU Steal Time -- When Should You Be Worried?

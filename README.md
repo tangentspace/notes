@@ -86,6 +86,10 @@ My personal notes on programming, distributed systems, scalability, and other to
   * Sumo Logic Deployment Infrastructure and Practices
     * https://www.sumologic.com/2014/01/08/sumo-logic-deployment-infrastructure-and-practices/
 
+## Ruby on Rails
+ * https://github.com/jaustinhughey/unicorn-status
+  
+ 
 ## History
   * The Evolution of Character Codes, 1874-1968
     * http://trafficways.org/ascii/ascii.pdf

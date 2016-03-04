@@ -21,6 +21,10 @@ My personal notes on programming, distributed systems, scalability, and other to
   * Brendan Gregg's website (great resource for systems performance)
     * http://www.brendangregg.com/
   
+## Containerization
+  * Borg, Omega, and Kubernetes: Lessons learned from three container-management systems over a decade
+    * http://queue.acm.org/detail.cfm?id=2898444
+
 ## Computer Science
  * Computer Science from the Bottom Up
    * http://www.bottomupcs.com/

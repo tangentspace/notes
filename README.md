@@ -72,6 +72,8 @@ My personal notes on programming, distributed systems, scalability, and other to
 ## Organizational
   * What is site reliability engineering?
    * http://www.site-reliability-engineering.info/2014/04/what-is-site-reliability-engineering.html
+
+   
 ## Operating Systems
   * The Design and Implementation of the 4.4BSD Operating System 
    * https://www.freebsd.org/doc/en/books/design-44bsd/

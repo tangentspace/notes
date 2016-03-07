@@ -79,6 +79,8 @@ My personal notes on programming, distributed systems, scalability, and other to
    * https://www.freebsd.org/doc/en/books/design-44bsd/
   * Linux Kernel Newbies Kernel Changelog
    * http://kernelnewbies.org/LinuxChanges
+  * Let's code a TCP/IP stack, 1: Ethernet & ARP
+    * http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp
 
 ## Performance
   * Understanding CPU Steal Time -- When Should You Be Worried?

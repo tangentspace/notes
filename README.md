@@ -73,8 +73,9 @@ My personal notes on programming, distributed systems, scalability, and other to
 
 ## Organizational
   * What is site reliability engineering?
-   * http://www.site-reliability-engineering.info/2014/04/what-is-site-reliability-engineering.html
-
+    * http://www.site-reliability-engineering.info/2014/04/what-is-site-reliability-engineering.html
+  * How to retain your hardest to hire positions (DevOps, System Automation, Release Engineering) 
+    * https://vimeo.com/65544302
    
 ## Operating Systems
   * The Design and Implementation of the 4.4BSD Operating System 

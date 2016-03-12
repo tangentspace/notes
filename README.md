@@ -76,6 +76,8 @@ My personal notes on programming, distributed systems, scalability, and other to
     * http://www.site-reliability-engineering.info/2014/04/what-is-site-reliability-engineering.html
   * How to retain your hardest to hire positions (DevOps, System Automation, Release Engineering) 
     * https://vimeo.com/65544302
+  * 18F DevOps Assessment Guide
+    * https://pages.18f.gov/devops-assessment/ 
    
 ## Operating Systems
   * The Design and Implementation of the 4.4BSD Operating System 

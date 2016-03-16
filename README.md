@@ -101,6 +101,8 @@ My personal notes on programming, distributed systems, scalability, and other to
 ## Deployment
   * Sumo Logic Deployment Infrastructure and Practices
     * https://www.sumologic.com/2014/01/08/sumo-logic-deployment-infrastructure-and-practices/
+  * How Adobe turned operations into a sevice and built a service delivery platform in the cloud
+    * http://dev2ops.org/2013/10/how-adobe-turned-operations-into-a-sevice-by-building-a-service-delivery-platform-in-the-cloud/
 
 ## Ruby on Rails
  * https://github.com/jaustinhughey/unicorn-status

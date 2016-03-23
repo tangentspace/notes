@@ -86,6 +86,8 @@ My personal notes on programming, distributed systems, scalability, and other to
    * http://kernelnewbies.org/LinuxChanges
   * Let's code a TCP/IP stack, 1: Ethernet & ARP
     * http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp
+  * Sockets Tutorial
+    * http://www.linuxhowtos.org/C_C++/socket.htm 
 
 ## Performance
   * Understanding CPU Steal Time -- When Should You Be Worried?

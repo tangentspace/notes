@@ -52,6 +52,8 @@ My personal notes on programming, distributed systems, scalability, and other to
    * https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying 
  * Distributed systems for fun and profit (Free ebook)
    * http://book.mixu.net/distsys/single-page.html
+ * A Distributed Systems Reading List
+   * https://dancres.github.io/Pages/
 
 ## Data Visualization
  * Folium makes it easy to visualize data that's been manipulated in Python on an interactive Leaflet map. 

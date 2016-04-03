@@ -54,6 +54,8 @@ My personal notes on programming, distributed systems, scalability, and other to
    * http://book.mixu.net/distsys/single-page.html
  * A Distributed Systems Reading List
    * https://dancres.github.io/Pages/
+ * Distributed Algorithms 2015-2016 (Lecturer: Wan Fokkink, author of http://mitpress.mit.edu/books/distributed-algorithms)
+   * http://www.cs.vu.nl/~tcs/da/
 
 ## Data Visualization
  * Folium makes it easy to visualize data that's been manipulated in Python on an interactive Leaflet map. 

@@ -8,6 +8,8 @@ My personal notes on programming, distributed systems, scalability, and other to
     * http://antirez.com/news/102
  * Damn Cool Algorithms: Log structured storage
    * http://blog.notdot.net/2009/12/Damn-Cool-Algorithms-Log-structured-storage
+ * MIT 6.006: Introduction to Algorithms
+   * http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
 
 ## Blogs
   * Paper Trail: _Computer Systems, Distributed Algorithms and Databases_

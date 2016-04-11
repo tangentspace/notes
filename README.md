@@ -126,3 +126,7 @@ My personal notes on programming, distributed systems, scalability, and other to
 ## History
   * The Evolution of Character Codes, 1874-1968
     * http://trafficways.org/ascii/ascii.pdf
+
+## Humor
+  * Classic Programmer Paintings
+    * http://classicprogrammerpaintings.tumblr.com/

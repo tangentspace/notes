@@ -33,6 +33,11 @@ My personal notes on programming, distributed systems, scalability, and other to
  * Computer Science from the Bottom Up
    * http://www.bottomupcs.com/
 
+## Research
+ * Facebook Systems Infrastructure
+   * https://research.facebook.com/publications/systems/
+    
+   
 ## Databases
  * Cassandra storage engine for MariaDB (WIP)
   * https://github.com/MariaDB/server/tree/10.1/storage/cassandra

@@ -27,6 +27,10 @@ My personal notes on programming, distributed systems, scalability, and other to
   * Borg, Omega, and Kubernetes: Lessons learned from three container-management systems over a decade
     * http://queue.acm.org/detail.cfm?id=2898444
 
+## Microservices
+  * Challenges of micro-service deployments
+    * http://techtraits.com/microservice.html
+
 ## Computer Science
  * The Semantics of Programming Languages
    * https://en.wikibooks.org/wiki/Programming_Languages/Semantics_Specification

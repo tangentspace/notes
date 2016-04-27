@@ -134,3 +134,8 @@ My personal notes on programming, distributed systems, scalability, and other to
 ## Humor
   * Classic Programmer Paintings
     * http://classicprogrammerpaintings.tumblr.com/
+
+## Exercises, games
+  * “Hacking” Wargames
+    * https://masammich.wordpress.com/2014/04/11/hacking-wargames/
+   

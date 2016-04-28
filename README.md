@@ -139,3 +139,6 @@ My personal notes on programming, distributed systems, scalability, and other to
   * “Hacking” Wargames
     * https://masammich.wordpress.com/2014/04/11/hacking-wargames/
    
+## Math
+ * On the (Small) Number of Atoms in the Universe
+   * http://norvig.com/atoms.html

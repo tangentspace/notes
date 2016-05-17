@@ -83,6 +83,8 @@ My personal notes on programming, distributed systems, scalability, and other to
    * http://stackoverflow.com/questions/18732250/installing-numpy-on-amazon-ec2
  * Intro to Toplogical Data Analysis / Tutorials (YouTube Playlist)
   * https://www.youtube.com/playlist?list=PL8XNXjk8Hg2N9tFhw9-4lbI2p7W1MTZhP
+ * RIVET is a tool for computing and visualizing 2-dimensional persistent homology.
+   * http://www.mrwright.org/rivet/
   
 ## Machine Learning
   * Machine Learning Video Library

@@ -85,6 +85,8 @@ My personal notes on programming, distributed systems, scalability, and other to
   * https://www.youtube.com/playlist?list=PL8XNXjk8Hg2N9tFhw9-4lbI2p7W1MTZhP
  * RIVET is a tool for computing and visualizing 2-dimensional persistent homology.
    * http://www.mrwright.org/rivet/
+ * Discrete Persistent Structures Extractor (DisPerSE): Automatic identification of persistent topological features.
+   * https://github.com/thierry-sousbie/DisPerSE
   
 ## Machine Learning
   * Machine Learning Video Library

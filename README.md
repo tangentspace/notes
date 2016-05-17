@@ -81,7 +81,9 @@ My personal notes on programming, distributed systems, scalability, and other to
 ## Data Analysis
  * Installing Numpy with ATLAS on Amazon Linux
    * http://stackoverflow.com/questions/18732250/installing-numpy-on-amazon-ec2
-
+ * Intro to Toplogical Data Analysis / Tutorials (YouTube Playlist)
+  * https://www.youtube.com/playlist?list=PL8XNXjk8Hg2N9tFhw9-4lbI2p7W1MTZhP
+  
 ## Machine Learning
   * Machine Learning Video Library
     * https://work.caltech.edu/library/

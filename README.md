@@ -79,6 +79,8 @@ My personal notes on programming, distributed systems, scalability, and other to
   * http://stanford.edu/~mwaskom/software/seaborn/
 
 ## Data Analysis
+ * Data Brewery is a set of Python frameworks and tools for data processing and analysis.
+   * http://databrewery.org/
  * Installing Numpy with ATLAS on Amazon Linux
    * http://stackoverflow.com/questions/18732250/installing-numpy-on-amazon-ec2
  * Intro to Toplogical Data Analysis / Tutorials (YouTube Playlist)

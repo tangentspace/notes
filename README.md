@@ -89,6 +89,8 @@ My personal notes on programming, distributed systems, scalability, and other to
    * http://www.mrwright.org/rivet/
  * Discrete Persistent Structures Extractor (DisPerSE): Automatic identification of persistent topological features.
    * https://github.com/thierry-sousbie/DisPerSE
+ * Resources for Topological Data Analysis
+   * https://gist.github.com/turnersr/8668521 
   
 ## Machine Learning
   * Machine Learning Video Library

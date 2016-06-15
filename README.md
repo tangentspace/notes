@@ -71,6 +71,8 @@ My personal notes on programming, distributed systems, scalability, and other to
    * http://www.cs.vu.nl/~tcs/da/
  * Theory of Distributed Computing
    * http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf
+ * Start learning about Theory of Distributed Systems?
+   * http://cs.stackexchange.com/questions/4793/start-learning-about-theory-of-distributed-systems/
    
 
 ## Data Visualization

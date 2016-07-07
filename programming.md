@@ -10,3 +10,10 @@
 
 * TCLAP is a small, flexible library that provides a simple interface for defining and accessing command line arguments.
   * http://tclap.sourceforge.net/
+
+
+
+# Python
+
+* Why is Python slow?
+  * https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/

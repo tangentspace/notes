@@ -33,3 +33,7 @@
 
 * Topological Data Analysis. Steve Oudot, INRIA Saclay. Spring 2016.
  * http://www.enseignement.polytechnique.fr/informatique/INF563/
+
+* Topics in Topology: Scientific and Engineering Applications of Algebraic Topology. Isabel Darcy, University of Iowa. Fall 2013. 
+ * http://homepage.math.uiowa.edu/~idarcy/AT/schedule.html 
+ 

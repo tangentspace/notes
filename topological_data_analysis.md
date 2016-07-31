@@ -6,3 +6,7 @@
 
 * Python Mapper
   * http://danifold.net/mapper/introduction.html
+
+* Persistence-Based Clustering in Riemannian Manifolds
+ * http://geometrica.saclay.inria.fr/team/Fred.Chazal/papers/cgos-pbc-09/cgos-pbcrm-11.pdf
+ 

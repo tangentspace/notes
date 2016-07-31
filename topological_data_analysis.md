@@ -30,3 +30,6 @@
  
 * Computational Toplogy and Data Analysis. Tamal Dey, Ohio State University. Autumn 2013
  * http://web.cse.ohio-state.edu/~tamaldey/course/CTDA/CTDA.html
+
+* Topological Data Analysis. Steve Oudot, INRIA Saclay. Spring 2016.
+ * http://www.enseignement.polytechnique.fr/informatique/INF563/

@@ -10,6 +10,9 @@
 * Python Mapper
   * http://danifold.net/mapper/introduction.html
 
+* JavaPlex. Persistent Homology and Topological Data Analysis Library
+  * https://github.com/appliedtopology/javaplex
+ 
 
 ## Papers
 

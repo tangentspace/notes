@@ -25,3 +25,5 @@
 * Introduction to Computational Topology. Bala Krishnamoorty, Washington State University. Spring 2016.
  * http://www.math.wsu.edu/math/faculty/bkrishna/CT_Math574_S16.html
  
+* Computational Toplogy and Data Analysis. Tamal Dey, Ohio State University. Autumn 2013
+ * http://web.cse.ohio-state.edu/~tamaldey/course/CTDA/CTDA.html

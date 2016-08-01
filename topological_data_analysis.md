@@ -1,9 +1,6 @@
 * Applying Topology to Data, Part 1: A Brief Introduction to Abstract Simplicial and Čech Complexes.
   * http://www.dyinglovegrape.com/math/topology_data_1.php
 
-* Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition
-  * http://diglib.eg.org/handle/10.2312/SPBG.SPBG07.091-100
-
 
 ## Software
 
@@ -13,6 +10,8 @@
 * JavaPlex. Persistent Homology and Topological Data Analysis Library
   * https://github.com/appliedtopology/javaplex
  
+* Dionysus. C++ library for computing persistent homology.
+  * http://www.mrzv.org/software/dionysus/
 
 ## Papers
 
@@ -22,6 +21,8 @@
 * Data Clustering: A Review
  * https://www.cs.rutgers.edu/~mlittman/courses/lightai03/jain99data.pdf
 
+* Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition
+  * http://diglib.eg.org/handle/10.2312/SPBG.SPBG07.091-100
 
 ## Courses
 

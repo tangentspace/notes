@@ -23,6 +23,10 @@ My personal notes on programming, distributed systems, scalability, and other to
   * Brendan Gregg's website (great resource for systems performance)
     * http://www.brendangregg.com/
   
+## Change management
+  * Git Internals
+    * https://git-scm.com/book/en/v1/Git-Internals 
+
 ## Containerization
   * Borg, Omega, and Kubernetes: Lessons learned from three container-management systems over a decade
     * http://queue.acm.org/detail.cfm?id=2898444

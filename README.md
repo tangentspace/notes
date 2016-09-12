@@ -30,6 +30,8 @@ My personal notes on programming, distributed systems, scalability, and other to
 ## Microservices
   * Challenges of micro-service deployments
     * http://techtraits.com/microservice.html
+  * Microservices: The Essential Practices
+    * https://technologyconversations.com/2015/11/10/microservices-the-essential-practices/
 
 ## Computer Science
  * The Semantics of Programming Languages

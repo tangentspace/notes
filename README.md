@@ -102,6 +102,8 @@ My personal notes on programming, distributed systems, scalability, and other to
    * https://github.com/thierry-sousbie/DisPerSE
  * Resources for Topological Data Analysis
    * https://gist.github.com/turnersr/8668521 
+ * Time Series Analysis with Python Intermediate | SciPy 2016 Tutorial
+   * https://www.youtube.com/watch?v=JNfxr4BQrLk
   
 ## Machine Learning
   * Machine Learning Video Library

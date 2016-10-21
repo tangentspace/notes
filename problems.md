@@ -6,3 +6,7 @@
 
 * Hacking a Google Interview
   * http://courses.csail.mit.edu/iap/interview/materials.php
+
+* Dictionary of Algorithms and Data Structures
+  * https://xlinux.nist.gov/dads/
+  

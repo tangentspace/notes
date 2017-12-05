@@ -25,7 +25,9 @@ My personal notes on programming, distributed systems, scalability, and other to
   
 ## Change management
   * Git Internals
-    * https://git-scm.com/book/en/v1/Git-Internals 
+    * https://git-scm.com/book/en/v1/Git-Internals
+  * git for the confused
+    * http://www.gelato.unsw.edu.au/archives/git/0512/13748.html
 
 ## Containerization
   * Borg, Omega, and Kubernetes: Lessons learned from three container-management systems over a decade

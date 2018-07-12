@@ -1,6 +1,10 @@
 # Notes
 My personal notes on programming, distributed systems, scalability, and other topics.
 
+## Architecture
+ * Cloud Design Patterns
+   * https://docs.microsoft.com/en-us/azure/architecture/patterns/
+   
 ## Algorithms
  * The Raft Consensus Algorithm
     * https://raft.github.io/

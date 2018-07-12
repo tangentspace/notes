@@ -1,5 +1,5 @@
-# Notes
-My personal notes on programming, distributed systems, scalability, and other topics.
+# Reading Journal
+My personal reading journal. Subject matter covered here includes programming, distributed systems, scalability, and other related topics.
 
 ## Architecture
  * Cloud Design Patterns

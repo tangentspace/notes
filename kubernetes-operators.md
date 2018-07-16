@@ -8,7 +8,11 @@ How to build an operator.
   * https://itnext.io/analyzing-value-of-operator-framework-for-kubernetes-community-5a65abc259ec
 * Kubernetes Deep Dive: Code Generation for CustomResources
   * https://blog.openshift.com/kubernetes-deep-dive-code-generation-customresources/
-
+* A Deep Dive Into Kubernetes Controllers
+  * https://engineering.bitnami.com/articles/a-deep-dive-into-kubernetes-controllers.html
+* Kubewatch, An Example Of Kubernetes Custom Controller
+  * https://engineering.bitnami.com/articles/kubewatch-an-example-of-kubernetes-custom-controller.html
+  
 ### Examples
 * Simple controller for watching Foo resources as defined with a CustomResourceDefinition (CRD).
   * https://github.com/kubernetes/sample-controller

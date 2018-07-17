@@ -12,6 +12,8 @@ How to build an operator.
   * https://engineering.bitnami.com/articles/a-deep-dive-into-kubernetes-controllers.html
 * Kubewatch, An Example Of Kubernetes Custom Controller
   * https://engineering.bitnami.com/articles/kubewatch-an-example-of-kubernetes-custom-controller.html
+* Steps to generate CRD/Operator code
+  * https://github.com/cloud-ark/kubeplus/issues/14
   
 ### Examples
 * Simple controller for watching Foo resources as defined with a CustomResourceDefinition (CRD).

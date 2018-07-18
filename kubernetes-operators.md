@@ -16,6 +16,8 @@ How to build an operator.
   * https://github.com/cloud-ark/kubeplus/issues/14
 * An Introduction to Extending Kubernetes with CustomResourceDefinitions  
   * https://blog.heptio.com/an-introduction-to-extending-kubernetes-with-customresourcedefinitions-76deb675b27a
+* client-go under the hood
+  * https://github.com/kubernetes/sample-controller/blob/master/docs/controller-client-go.md#client-go-under-the-hood
   
 ### Examples
 * Simple controller for watching Foo resources as defined with a CustomResourceDefinition (CRD).

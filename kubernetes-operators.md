@@ -4,6 +4,8 @@ How to build an operator.
 ## References
 
 ### Overview
+* Extend Kubernetes 1.7 with Custom Resources
+  * https://thenewstack.io/extend-kubernetes-1-7-custom-resources/
 * Extending Kubernetes: Create Controllers for Core and Custom Resources
   * https://medium.com/@trstringer/create-kubernetes-controllers-for-core-and-custom-resources-62fc35ad64a3
 * Analyzing value of Operator Framework for Kubernetes community

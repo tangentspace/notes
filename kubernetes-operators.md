@@ -4,6 +4,8 @@ How to build an operator.
 ## References
 
 ### Overview
+* Writing Controllers
+  * https://github.com/kubernetes/community/blob/master/contributors/devel/controllers.md
 * Extend Kubernetes 1.7 with Custom Resources
   * https://thenewstack.io/extend-kubernetes-1-7-custom-resources/
 * Extending Kubernetes: Create Controllers for Core and Custom Resources

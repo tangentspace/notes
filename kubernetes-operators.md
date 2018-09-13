@@ -4,6 +4,12 @@ How to build an operator.
 ## References
 
 ### Overview
+* Building an operator for Kubernetes with the sample-controller
+  * https://itnext.io/building-an-operator-for-kubernetes-with-the-sample-controller-b4204be9ad56
+* Building an operator for Kubernetes with kubebuilder
+  * https://itnext.io/building-an-operator-for-kubernetes-with-kubebuilder-17cbd3f07761
+* Building an operator for Kubernetes with operator-sdk
+  * https://itnext.io/building-an-operator-for-kubernetes-with-operator-sdk-40a029ea056
 * Writing Controllers
   * https://github.com/kubernetes/community/blob/master/contributors/devel/controllers.md
 * Extend Kubernetes 1.7 with Custom Resources
